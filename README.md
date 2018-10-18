@@ -1,6 +1,6 @@
 # The Light-up Assistive Ring
 
-This light-up ring is a device made for people with retinal degeneration. Since one of the biggest causes of retinal degeneration is lack of lighting, this ring provides users a gentle light-up reminder to turn on the light if the room lighting is too dark. The main arduino device used for this is an ATTiny85, which comes with some specifications. 
+This light-up ring is a device made for people with retinal degeneration. Since one of the biggest causes of retinal degeneration is eye strain due to lack of lighting, this ring provides users a gentle light-up reminder to turn on the light if the room lighting is too dark. The main arduino device used for this is an ATTiny85, which comes with some specifications. 
 
 The serial monitor settings are commented out because the ATTiny85 doesn't take Serial feedback. That said, if the code was uncommented and uploaded to an Arduino Uno R3, the same behavior would be produced, but with Serial feedback.
 
