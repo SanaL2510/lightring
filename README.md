@@ -10,4 +10,4 @@ Instructions on how to uplaod code to an ATTiny85 can be found here:
 
 With a programmer: https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/all
 
-With a circuit: https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
+With a breadboard: https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
